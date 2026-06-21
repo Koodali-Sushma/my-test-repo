@@ -1,9 +1,3 @@
-Simple way to commit my changes
-
-Step1:
-Create a files you want
-Do git add
-git add -A
-Do git commit with commit message
-git commit <File> -m 'COMMIT MSG'
-
+Hi, with this i could learn
+Githhub commits
+≈
